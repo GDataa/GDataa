@@ -113,14 +113,6 @@ I enjoy building software, designing backend systems, and turning ideas into pra
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GDataa&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building new things, and collaborating on interesting software projects.
